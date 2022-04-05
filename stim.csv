@@ -1,11 +1,11 @@
-set_id,cond_id,stim,cond,match,word1_mis,word2_mis,word3_mis,structure,meaning,n_word,n_char_stim,stim_word1,stim_word2,stim_word3
-1,a,students read books,svo,students read books,rodents read books,students rate books,students read beets,SVO,canonical,3,19,students,read,books
-1,b,books read students,reversed,books read students,beets read students,books rate students,books read rodents,SVO,reversed,3,19,books,read,students
-1,c,students reads books,agr_fw,students reads books,rodents reads books,students rates books,students reads beets,AgrErr,canonical,,20,students,reads,books
-1,d,books reads students,agr_rv,books reads students,beets reads students,books rates students,books reads rodents,AgrErr,reversed,,20,books,reads,students
-1,e,students books,list_fw,students books,rodents books,students beets,students books,NoVerbList,canonical,2,14,students,books,
-1,f,books students,list_rv,books students,beets students,books rodents,books students,NoVerbList,reversed,2,14,books,students,
-1,g,students read,sv_fw,students read,rodents read,students rate,students read,Intrans,canonical,2,13,students,read,
-1,h,books read,sv_rv,books read,beets read,books rate,books read,Intrans,reversed,2,10,books,read,
-1,i,books students read,relative,books students read,beets rodents read,books rodents read,books students rate,Relative,canonical,3,19,books,students,read
-1,j,students books read,relative_rv,students books read,rodents beets read,students beets read,students books rate,Relative,reversed,3,19,students,books,read
+set_id,cond_id,stim,cond,meaning
+1,a,red green blue,ab,1
+1,b,yellow harold blue,c,2
+1,c,six green purple,d,3
+1,d,tan yellow orange,a,1
+1,e,blue red grey,b,2
+1,f,six hey luke,c,3
+1,g,seven blue dots,d,1
+1,h,red green knight,a,2
+1,i,harold mark gregory,b,3
+1,j,purple yellow seven,c,1
